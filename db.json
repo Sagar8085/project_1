@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "firstName": "a",
+      "lastName": "s",
+      "email": "mohitmarkmywords@gmail.com",
+      "contact": "65465465465",
+      "password": "qwer",
+      "confirm_password": "qwer",
+      "id": 2
+    },
+    {
+      "firstName": "mohit ",
+      "lastName": "shrivastava",
+      "email": "mohitmarkmywords@gmail.com",
+      "contact": "9926299993",
+      "password": "123",
+      "confirm_password": "123",
+      "id": 3
+    },
+    {
+      "firstName": "mohit ",
+      "lastName": "shrivastava",
+      "email": "mohitmarkmywords@gmail.com",
+      "contact": "9926299993",
+      "password": "123",
+      "confirm_password": "123",
+      "id": 4
+    },
+    {
+      "firstName": "mohit ",
+      "lastName": "shrivastava",
+      "email": "mohitmarkmywords@gmail.com",
+      "contact": "9926299993",
+      "password": "123",
+      "confirm_password": "123",
+      "id": 5
+    },
+    {
+      "firstName": "mohit ",
+      "lastName": "shrivastava",
+      "email": "mohitmarkmywords@gmail.com",
+      "contact": "9926299993",
+      "password": "123",
+      "confirm_password": "123",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
